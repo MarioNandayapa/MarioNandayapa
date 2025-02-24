@@ -28,7 +28,7 @@ I am passionate about aging research, intron retention analysis, and machine lea
 
 ---
 
-### 👯 Looking to Collaborate On  
+### 💡 Looking to Collaborate On  
 - Bioinformatics & genomics research.  
 - AI for healthcare & biomedical applications.  
 - Music-tech innovations & cultural projects.  
@@ -42,6 +42,6 @@ I am passionate about aging research, intron retention analysis, and machine lea
 
 ---
 
-### ⚡ Fun Fact  
-I merge science, technology, and traditional music—applying AI to bioinformatics by day and performing marimba by night! 🎵💡  
+### 🎵 Fun Fact  
+I merge science, technology, and traditional music—applying AI to bioinformatics by day and performing marimba by night!   
 
