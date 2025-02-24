@@ -8,16 +8,16 @@ I am passionate about aging research, intron retention analysis, and machine lea
 ---
 
 ### 🔬 Research & Development  
-- 🧬 **Bioinformatics**: RNA-seq, intron retention, multi-omics analysis.  
-- 🤖 **AI & Machine Learning**: Biomedical data analysis, NLP, deep learning.  
-- 🎶 **Music & Culture**: Traditional marimba, cross-disciplinary projects.  
+- **Bioinformatics**: RNA-seq, intron retention, multi-omics analysis.  
+- **AI & Machine Learning**: Biomedical data analysis, NLP, deep learning.  
+- **Music & Culture**: Traditional marimba, cross-disciplinary projects.  
 
 ---
 
 ### 🌍 Where I Work  
-- 💻 **AI Developer** at [@Xoñijomï](https://github.com/Xonijomi).  
-- 🎓 **Researcher in Aging & Bioinformatics** (Mexico & Estonia).  
-- 🎵 **Cultural Promoter & Musician** (Traditional Mexican Marimba).  
+- **AI Developer** at [@Xoñijomï](https://github.com/Xonijomi).  
+- **Researcher in Aging & Bioinformatics** (Mexico & Estonia).  
+- **Cultural Promoter & Musician** (Traditional Mexican Marimba).  
 
 ---
 
@@ -36,9 +36,9 @@ I am passionate about aging research, intron retention analysis, and machine lea
 ---
 
 ### 📫 How to Reach Me  
-- 🌐 **Website**: [marionandayapa.com](https://marionandayapa.com)  
-- 🐦 **Twitter**: [@MarioNandayapaJ](https://twitter.com/MarioNandayapaJ)  
-- 📩 **Email**: nandayapamario87@gmail.com  
+- **Website**: [marionandayapa.com](https://marionandayapa.com)  
+- **Twitter**: [@MarioNandayapaJ](https://twitter.com/MarioNandayapaJ)  
+- **Email**: nandayapamario87@gmail.com  
 
 ---
 
